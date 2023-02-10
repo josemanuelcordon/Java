@@ -1,3 +1,7 @@
 public class Satélite {
-    hola que tal;
+    private String nombre;
+
+    public Satélite() {
+        nombre = "Jose Manuel";
+    }
 }
